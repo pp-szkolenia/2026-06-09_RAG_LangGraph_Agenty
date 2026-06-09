@@ -1,0 +1,74 @@
+book_name,book_abbrev,bible_part,book_category,deuterocanonical,original_language,n_chapters
+Księga Rodzaju,rdz,Stary Testament,Pięcioksiąg,False,hebrajski,50
+Księga Wyjścia,wj,Stary Testament,Pięcioksiąg,False,hebrajski,40
+Księga Kapłańska,kpl,Stary Testament,Pięcioksiąg,False,hebrajski,27
+Księga Liczb,lb,Stary Testament,Pięcioksiąg,False,hebrajski,36
+Księga Powtórzonego Prawa,pwt,Stary Testament,Pięcioksiąg,False,hebrajski,34
+Księga Jozuego,joz,Stary Testament,Księgi historyczne,False,hebrajski,24
+Księga Sędziów,sdz,Stary Testament,Księgi historyczne,False,hebrajski,21
+Księga Rut,rt,Stary Testament,Księgi historyczne,False,hebrajski,4
+1 Księga Samuela,1sm,Stary Testament,Księgi historyczne,False,hebrajski,31
+2 Księga Samuela,2sm,Stary Testament,Księgi historyczne,False,hebrajski,24
+1 Księga Królewska,1krl,Stary Testament,Księgi historyczne,False,hebrajski,22
+2 Księga Królewska,2krl,Stary Testament,Księgi historyczne,False,hebrajski,25
+1 Księga Kronik,1krn,Stary Testament,Księgi historyczne,False,hebrajski,29
+2 Księga Kronik,2krn,Stary Testament,Księgi historyczne,False,hebrajski,36
+Księga Ezdrasza,ezd,Stary Testament,Księgi historyczne,False,hebrajski,10
+Księga Nehemiasza,ne,Stary Testament,Księgi historyczne,False,hebrajski,13
+Księga Estery,est,Stary Testament,Księgi historyczne,False,hebrajski,10
+Księga Hioba,hi,Stary Testament,Księgi mądrościowe,False,hebrajski,42
+Księga Psalmów,ps,Stary Testament,Księgi mądrościowe,False,hebrajski,150
+Księga Przysłów,prz,Stary Testament,Księgi mądrościowe,False,hebrajski,31
+Księga Koheleta,koh,Stary Testament,Księgi mądrościowe,False,hebrajski,12
+Pieśń nad pieśniami,pnp,Stary Testament,Księgi mądrościowe,False,hebrajski,8
+Księga Izajasza,iz,Stary Testament,Księgi prorockie,False,hebrajski,66
+Księga Jeremiasza,jr,Stary Testament,Księgi prorockie,False,hebrajski,52
+Lamentacje Jeremiasza,lm,Stary Testament,Księgi prorockie,False,hebrajski,5
+Księga Ezechiela,ez,Stary Testament,Księgi prorockie,False,hebrajski,48
+Księga Daniela,dn,Stary Testament,Księgi prorockie,False,hebrajski,12
+Księga Ozeasza,oz,Stary Testament,Księgi prorockie,False,hebrajski,14
+Księga Joela,jl,Stary Testament,Księgi prorockie,False,hebrajski,3
+Księga Amosa,am,Stary Testament,Księgi prorockie,False,hebrajski,9
+Księga Abdiasza,ab,Stary Testament,Księgi prorockie,False,hebrajski,0
+Księga Jonasza,jon,Stary Testament,Księgi prorockie,False,hebrajski,4
+Księga Micheasza,mi,Stary Testament,Księgi prorockie,False,hebrajski,7
+Księga Nahuma,na,Stary Testament,Księgi prorockie,False,hebrajski,3
+Księga Habakuka,ha,Stary Testament,Księgi prorockie,False,hebrajski,3
+Księga Sofoniasza,so,Stary Testament,Księgi prorockie,False,hebrajski,3
+Księga Aggeusza,ag,Stary Testament,Księgi prorockie,False,hebrajski,2
+Księga Zachariasza,za,Stary Testament,Księgi prorockie,False,hebrajski,14
+Księga Malachiasza,ml,Stary Testament,Księgi prorockie,False,hebrajski,4
+Księga Tobiasza,tb,Stary Testament,Księgi historyczne,True,grecki,14
+Księga Judyty,jdt,Stary Testament,Księgi historyczne,True,grecki,16
+1 Księga Machabejska,1mch,Stary Testament,Księgi historyczne,True,grecki,16
+2 Księga Machabejska,2mch,Stary Testament,Księgi historyczne,True,grecki,15
+Księga Mądrości,mdr,Stary Testament,Księgi mądrościowe,True,grecki,19
+Mądrość Syracha,syr,Stary Testament,Księgi mądrościowe,True,grecki,51
+Księga Barucha,ba,Stary Testament,Księgi prorockie,True,grecki,6
+Ewangelia Mateusza,mat,Nowy Testament,Ewangelie,False,grecki,28
+Ewangelia Marka,mar,Nowy Testament,Ewangelie,False,grecki,16
+Ewangelia Łukasza,luk,Nowy Testament,Ewangelie,False,grecki,24
+Ewangelia Jana,jan,Nowy Testament,Ewangelie,False,grecki,21
+Dzieje Apostolskie,dz,Nowy Testament,Dzieje Apostolskie,False,grecki,28
+List do Rzymian,rz,Nowy Testament,Listy apostolskie,False,grecki,16
+1 list do Koryntian,1kor,Nowy Testament,Listy apostolskie,False,grecki,16
+2 list do Koryntian,2kor,Nowy Testament,Listy apostolskie,False,grecki,13
+List do Galatów,gal,Nowy Testament,Listy apostolskie,False,grecki,6
+List do Efezjan,ef,Nowy Testament,Listy apostolskie,False,grecki,6
+List do Filipian,fil,Nowy Testament,Listy apostolskie,False,grecki,4
+List do Kolosan,kol,Nowy Testament,Listy apostolskie,False,grecki,4
+1 List do Tesaloniczan,1tes,Nowy Testament,Listy apostolskie,False,grecki,5
+2 List do Tesaloniczan,2tes,Nowy Testament,Listy apostolskie,False,grecki,3
+1 List do Tymoteusza,1tym,Nowy Testament,Listy apostolskie,False,grecki,6
+2 List do Tymoteusza,2tym,Nowy Testament,Listy apostolskie,False,grecki,4
+List do Tytusa,tyt,Nowy Testament,Listy apostolskie,False,grecki,3
+List do Filemona,flm,Nowy Testament,Listy apostolskie,False,grecki,0
+List do Hebrajczyków,hebr,Nowy Testament,Listy apostolskie,False,grecki,13
+List Jakuba,jak,Nowy Testament,Listy apostolskie,False,grecki,5
+1 List Piotra,1p,Nowy Testament,Listy apostolskie,False,grecki,5
+2 List Piotra,2p,Nowy Testament,Listy apostolskie,False,grecki,3
+1 List Jana,1j,Nowy Testament,Listy apostolskie,False,grecki,5
+2 List Jana,2j,Nowy Testament,Listy apostolskie,False,grecki,0
+3 List Jana,3j,Nowy Testament,Listy apostolskie,False,grecki,0
+List Judy,jud,Nowy Testament,Listy apostolskie,False,grecki,0
+Apokalipsa (Objawienie),obj,Nowy Testament,Apokalipsa,False,grecki,22

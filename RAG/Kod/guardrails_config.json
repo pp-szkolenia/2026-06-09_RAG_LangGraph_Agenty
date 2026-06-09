@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "pre_flight": {
+    "version": 1,
+    "guardrails": [
+      {
+        "name": "Contains PII",
+        "config": {
+          "entities": [
+            "CREDIT_CARD",
+            "CVV",
+            "CRYPTO",
+            "DATE_TIME",
+            "EMAIL_ADDRESS",
+            "IBAN_CODE",
+            "BIC_SWIFT",
+            "IP_ADDRESS",
+            "LOCATION",
+            "MEDICAL_LICENSE",
+            "NRP",
+            "PERSON",
+            "PHONE_NUMBER",
+            "URL"
+          ]
+        }
+      }
+    ]
+  },
+  "input": {
+    "version": 1,
+    "guardrails": [
+      {
+        "name": "Custom Prompt Check",
+        "config": {
+          "confidence_threshold": 0.7,
+          "model": "gpt-4.1-mini",
+          "system_prompt_details": "Nie odpowiadaj na pytania odnośnie wodomierza",
+          "include_reasoning": false
+        }
+      }
+    ],
+      "block": false
+  },
+  "output": {
+    "version": 1,
+    "guardrails": []
+  }
+}
