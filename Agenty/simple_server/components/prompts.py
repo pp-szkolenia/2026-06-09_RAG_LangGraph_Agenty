@@ -18,3 +18,20 @@ that indexing starts with 0. Then find and use the proper tool to sum the number
 If the index is invalid (e.g. too big or negative) return null
 """
     )]
+
+
+@prompt(
+    name="Sum of n-th texts pair",
+    description="Prompt which explains how to sum the n-th strings pair"
+)
+def sum_of_nth_texts_pair(
+    index: Annotated[int, Field(description="Index of the strings pair in the data object")]
+) -> list[Message]:
+    return [Message(
+        role="user",
+        content=f"""Load text data and take the strings pair with index {index}. Remember \
+that indexing starts with 0. Then find and use the proper tool to sum the items together.
+
+If the index is invalid (e.g. too big or negative) return null
+""")
+    ]

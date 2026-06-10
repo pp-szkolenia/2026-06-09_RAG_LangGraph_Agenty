@@ -9,3 +9,11 @@ def add(
     b: Annotated[float | str, Field(description="The second item")]
 ):
     return a + b
+
+
+@tool(description="This function takes two numbers and returns their difference")
+def subtract(
+    a: Annotated[float, Field(description="The first number")],
+    b: Annotated[float, Field(description="The second number")],
+) -> float:
+    return a - b
