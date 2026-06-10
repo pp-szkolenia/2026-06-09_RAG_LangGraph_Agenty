@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "tytul": "Oppenheimer",
+    "recenzja": "Absolutne arcydzieło. Nolan po raz kolejny udowodnił, że potrafi tworzyć kino na najwyższym poziomie. Montaż, muzyka i gra aktorska wciągają bez reszty przez trzy godziny. Jeden z najlepszych filmów dekady.",
+    "sentyment": "pozytywna"
+  },
+  {
+    "id": 2,
+    "tytul": "Barbie",
+    "recenzja": "Kolorowy i zabawny, choć momentami czuć, że twórcy za bardzo starali się przemycić zbyt wiele wątków naraz. Margot Robbie jest świetna, ale finał trochę rozczarowuje. Ogólnie przyjemne kino na jeden wieczór.",
+    "sentyment": "neutralna"
+  },
+  {
+    "id": 3,
+    "tytul": "Dune: Część druga",
+    "recenzja": "Wizualnie przepiękny film, który jednak gubi się w tempie narracji. Pierwsza godzina jest hipnotyzująca, ale im bliżej końca, tym bardziej traci się poczucie, że historia zmierza gdzieś konkretnego.",
+    "sentyment": "neutralna"
+  },
+  {
+    "id": 4,
+    "tytul": "Maestro",
+    "recenzja": "Cooper stworzył coś naprawdę wyjątkowego. Rola życia, reżyseria pełna odwagi i jedna z najpiękniejszych scen miłosnych ostatnich lat. Wzruszający i szczery portret artysty rozdartego między pasją a rodziną.",
+    "sentyment": "pozytywna"
+  },
+  {
+    "id": 5,
+    "tytul": "Indiana Jones i artefakt przeznaczenia",
+    "recenzja": "Przykre zakończenie kultowej serii. CGI odmładzający twarz Forda wygląda sztucznie, fabuła jest przewidywalna, a finałowy zwrot fabularny jest co najmniej niezrozumiały. Franczyza powinna była skończyć się dużo wcześniej.",
+    "sentyment": "negatywna"
+  },
+  {
+    "id": 6,
+    "tytul": "Past Lives",
+    "recenzja": "Delikatny, mądry i do bólu ludzki film o tym, czego nie można cofnąć. Gra aktorska na najwyższym poziomie, cisza mówi więcej niż dialogi. Jeden z tych filmów, o których myśli się jeszcze długo po seansie.",
+    "sentyment": "pozytywna"
+  },
+  {
+    "id": 7,
+    "tytul": "Aquaman i Zaginione Królestwo",
+    "recenzja": "Bezbarwny, hałaśliwy i pozbawiony sensu. Dialogi brzmią jak napisane przez AI w złym humorze, a efekty specjalne nie robią już żadnego wrażenia. Zmarnowane dwie godziny życia i dowód na kompletny upadek DC.",
+    "sentyment": "negatywna"
+  },
+  {
+    "id": 8,
+    "tytul": "Beau ma się na baczności",
+    "recenzja": "Film wymagający cierpliwości i gotowości na coś bardzo specyficznego. Aster buduje gęstą atmosferę, ale trzy godziny tego intensywnego surrealizmu mogą wyczerpać. Doceniam ambicję, jednak nie jestem pewny, czy efekt końcowy uzasadnia wysiłek widza.",
+    "sentyment": "neutralna"
+  },
+  {
+    "id": 9,
+    "tytul": "Killers of the Flower Moon",
+    "recenzja": "Scorsese na topie, Lily Gladstone rewelacyjna. Trzy i pół godziny, które mijają jak z bicza strzelił. Ważna historia opowiedziana z godną podziwu starannością i szacunkiem dla jej ofiar. Kino wielkiego formatu.",
+    "sentyment": "pozytywna"
+  },
+  {
+    "id": 10,
+    "tytul": "The Flash",
+    "recenzja": "Fanservice bez duszy. Powrót Keatona jako Batmana to jedyna rzecz warta uwagi, reszta to chaotyczne CGI i dziurawy scenariusz. Trudno uwierzyć, że taki film mógł kosztować 200 milionów dolarów.",
+    "sentyment": "negatywna"
+  }
+]
