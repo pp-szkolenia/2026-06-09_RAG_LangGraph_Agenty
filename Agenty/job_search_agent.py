@@ -28,8 +28,8 @@ agent = Agent(
         "When the user provides job search criteria, follow this workflow:\n"
         "1. Use `generate_search_url` to build a search URL from the given filters "
         "(work_model, technologies, salary_range, sort, etc.).\n"
-        # "2. Use `get_offers_from_search_url` to retrieve a list of job offer URLs from that search.\n"
-        # "3. Use `scrape_single_offer` to fetch details of individual offers when needed.\n"
+        "2. Use `get_offers_from_search_url` to retrieve a list of job offer URLs from that search.\n"
+        "3. Use `scrape_single_offer` to fetch details of individual offers when needed.\n"
         "If no offers are found, inform the user and suggest adjusting the filters."
     ),
 )
