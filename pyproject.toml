@@ -30,4 +30,5 @@ dependencies = [
     "pydantic-ai>=1.106.0",
     "openai-guardrails>=0.2.1",
     "ragas==0.4.3",
+    "fastmcp>=3.4.2",
 ]
